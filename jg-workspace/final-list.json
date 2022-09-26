@@ -340,359 +340,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 50,
-    "shortName": "Nedh\u00c3\u00a6ngt metalloft, aluminium",
-    "description": "Denne EPD g\u00c3\u00a6lder som en branche EPD for udvalgte TAIM e.V. medlemmer, herunder DAMPA ApS\n\nMetalloftsystemerne i aluminium bruges til indend\u00c3\u00b8rs form\u00c3\u00a5l som et rektangul\u00c3\u00a6rt panel (ogs\u00c3\u00a5 som speciel form), panelloft, firkantet kassette, udvidet metalloft, gitterloft eller baldakinloft til loftsbekl\u00c3\u00a6dning. Produktet er fremstillet i overensstemmelse med de respektive kunders krav.",
-    "epdInfo": {
-      "epdSpecificationForm": 0,
-      "epdProductIndustryType": 0,
-      "issuedAt": "2019-07-01T00:00:00",
-      "validTo": "2024-01-29T00:00:00"
-    },
-    "tags": ["Lofter", "Metal"]
-  },
-  {
-    "ownerId": "2feec87c-9014-448e-830c-06b98c0ff437",
-    "scraped": false,
-    "custom": false,
-    "generic": false,
-    "additionalSources": [
-      "https://www.epddanmark.dk/epd-databasen/dampa/nedhaengt-metalloft-aluminium/?alttemplate=EPDpopup&lang=da-dk"
-    ],
-    "stages": [
-      {
-        "stageType": 0,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 8.63,
-          "odp": 1.16e-11,
-          "ap": 0.0404,
-          "ep": 0.00252,
-          "pocp": 0.0023,
-          "adpe": 1.06e-5,
-          "adpf": 98.6,
-          "pere": 48.6,
-          "perm": 0.621,
-          "pert": 49.2,
-          "penre": 117,
-          "penrm": 0.593,
-          "penrt": 118,
-          "sm": 0.0103,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 0.117,
-          "hwd": 1.2e-7,
-          "nhwd": 12,
-          "rwd": 0.0073,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0,
-          "eet": 0
-        }
-      },
-      {
-        "stageType": 1,
-        "stageStatus": 2,
-        "measures": {}
-      },
-      {
-        "stageType": 2,
-        "stageStatus": 2,
-        "measures": {}
-      },
-      {
-        "stageType": 3,
-        "stageStatus": 2,
-        "measures": {}
-      },
-      {
-        "stageType": 4,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 0.00745,
-          "odp": 1.58e-16,
-          "ap": 3.08e-5,
-          "ep": 7.83e-6,
-          "pocp": -1.18e-5,
-          "adpe": 7.78e-10,
-          "adpf": 0.1,
-          "pere": 0.00679,
-          "perm": 0,
-          "pert": 0.00679,
-          "penre": 0.101,
-          "penrm": 0,
-          "penrt": 0.101,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 7.87e-6,
-          "hwd": 6.46e-9,
-          "nhwd": 0.000543,
-          "rwd": 1.22e-7,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0,
-          "eet": 0
-        }
-      },
-      {
-        "stageType": 5,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 0.108,
-          "odp": 3.64e-15,
-          "ap": 4.6e-5,
-          "ep": 8.67e-6,
-          "pocp": 1.67e-6,
-          "adpe": 4.98e-9,
-          "adpf": 0.0519,
-          "pere": 0.428,
-          "perm": -0.42,
-          "pert": 0.00809,
-          "penre": 0.651,
-          "penrm": -0.593,
-          "penrt": 0.0584,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 0.000319,
-          "hwd": 7.72e-10,
-          "nhwd": 0.0215,
-          "rwd": 2.61e-6,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0.12,
-          "eet": 0.225
-        }
-      },
-      {
-        "stageType": 6,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 0,
-          "odp": 0,
-          "ap": 0,
-          "ep": 0,
-          "pocp": 0,
-          "adpe": 0,
-          "adpf": 0,
-          "pere": 0,
-          "perm": 0,
-          "pert": 0,
-          "penre": 0,
-          "penrm": 0,
-          "penrt": 0,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 0,
-          "hwd": 0,
-          "nhwd": 0,
-          "rwd": 0,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0,
-          "eet": 0
-        }
-      },
-      {
-        "stageType": 7,
-        "stageStatus": 1,
-        "measures": {}
-      },
-      {
-        "stageType": 8,
-        "stageStatus": 0,
-        "measures": {}
-      },
-      {
-        "stageType": 9,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 0,
-          "odp": 0,
-          "ap": 0,
-          "ep": 0,
-          "pocp": 0,
-          "adpe": 0,
-          "adpf": 0,
-          "pere": 0,
-          "perm": 0,
-          "pert": 0,
-          "penre": 0,
-          "penrm": 0,
-          "penrt": 0,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 0,
-          "hwd": 0,
-          "nhwd": 0,
-          "rwd": 0,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0,
-          "eet": 0
-        }
-      },
-      {
-        "stageType": 10,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 0,
-          "odp": 0,
-          "ap": 0,
-          "ep": 0,
-          "pocp": 0,
-          "adpe": 0,
-          "adpf": 0,
-          "pere": 0,
-          "perm": 0,
-          "pert": 0,
-          "penre": 0,
-          "penrm": 0,
-          "penrt": 0,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 0,
-          "hwd": 0,
-          "nhwd": 0,
-          "rwd": 0,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0,
-          "eet": 0
-        }
-      },
-      {
-        "stageType": 11,
-        "stageStatus": 1,
-        "measures": {}
-      },
-      {
-        "stageType": 12,
-        "stageStatus": 1,
-        "measures": {}
-      },
-      {
-        "stageType": 13,
-        "stageStatus": 1,
-        "measures": {}
-      },
-      {
-        "stageType": 14,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 0.00731,
-          "odp": 1.55e-16,
-          "ap": 2.8e-5,
-          "ep": 7.1e-6,
-          "pocp": -1.05e-5,
-          "adpe": 7.63e-10,
-          "adpf": 0.0985,
-          "pere": 0.00666,
-          "perm": 0,
-          "pert": 0.00666,
-          "penre": 0.0988,
-          "penrm": 0,
-          "penrt": 0.0988,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 7.72e-6,
-          "hwd": 6.34e-9,
-          "nhwd": 0.000533,
-          "rwd": 1.19e-7,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0,
-          "eet": 0
-        }
-      },
-      {
-        "stageType": 15,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": 0.0404,
-          "odp": 1.36e-15,
-          "ap": 1.63e-5,
-          "ep": 3.02e-6,
-          "pocp": 9.62e-7,
-          "adpe": 1.84e-9,
-          "adpf": 0.0163,
-          "pere": 0.204,
-          "perm": -0.201,
-          "pert": 0.00282,
-          "penre": 0.0187,
-          "penrm": 0,
-          "penrt": 0.0187,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": 0.000119,
-          "hwd": 8.67e-11,
-          "nhwd": 0.00803,
-          "rwd": 9.75e-7,
-          "cru": 0,
-          "mfr": 0,
-          "mer": 0,
-          "eee": 0.0281,
-          "eet": 0.0527
-        }
-      },
-      {
-        "stageType": 16,
-        "stageStatus": 1,
-        "measures": {}
-      },
-      {
-        "stageType": 17,
-        "stageStatus": 2,
-        "measures": {
-          "gwp": -6.73,
-          "odp": 5.3e-10,
-          "ap": -0.0322,
-          "ep": -0.00187,
-          "pocp": -0.00178,
-          "adpe": -3.56e-6,
-          "adpf": -72.8,
-          "pere": -37.3,
-          "perm": 0,
-          "pert": -37.3,
-          "penre": -86.7,
-          "penrm": 0,
-          "penrt": -86.7,
-          "sm": 0,
-          "rsf": 0,
-          "nrsf": 0,
-          "fw": -0.0974,
-          "hwd": -1.29e-7,
-          "nhwd": -8.03,
-          "rwd": -0.00546,
-          "cru": 0,
-          "mfr": 0.85,
-          "mer": 0,
-          "eee": 0,
-          "eet": 0
-        }
-      }
-    ],
-    "declaredUnit": {
-      "declaredUnit": 1,
-      "declaredValue": 1,
-      "mass": 5.15,
-      "massUnit": 1
-    },
-    "expectedLifespan": 50,
-    "shortName": "Nedh\u00c3\u00a6ngt metalloft, aluminium",
-    "description": "Denne EPD g\u00c3\u00a6lder som en branche EPD for udvalgte TAIM e.V. medlemmer, herunder DAMPA ApS\n\nMetalloftsystemerne i aluminium bruges til indend\u00c3\u00b8rs form\u00c3\u00a5l som et rektangul\u00c3\u00a6rt panel (ogs\u00c3\u00a5 som speciel form), panelloft, firkantet kassette, udvidet metalloft, gitterloft eller baldakinloft til loftsbekl\u00c3\u00a6dning. Produktet er fremstillet i overensstemmelse med de respektive kunders krav.",
+    "shortName": "Nedhængt metalloft, aluminium",
+    "description": "Denne EPD gælder som en branche EPD for udvalgte TAIM e.V. medlemmer, herunder DAMPA ApS\n\nMetalloftsystemerne i aluminium bruges til indendørs formål som et rektangulært panel (også som speciel form), panelloft, firkantet kassette, udvidet metalloft, gitterloft eller baldakinloft til loftsbeklædning. Produktet er fremstillet i overensstemmelse med de respektive kunders krav.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -1627,7 +1276,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Letbetonelement",
-    "description": "173 mm tykt letbetonelement. Til v\u00c3\u00a6gge og d\u00c3\u00a6k i byggeri.",
+    "description": "173 mm tykt letbetonelement. Til vægge og dæk i byggeri.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -2561,15 +2210,15 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Betonelement v\u00c3\u00a6gge",
-    "description": "180 mm tykt betonelement til anvendelse som v\u00c3\u00a6g i byggeri.",
+    "shortName": "Betonelement vægge",
+    "description": "180 mm tykt betonelement til anvendelse som væg i byggeri.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
       "issuedAt": "2021-10-28T00:00:00",
       "validTo": "2026-10-28T00:00:00"
     },
-    "tags": ["Beton", "Facader", "Yderv\u00c3\u00a6gge"]
+    "tags": ["Beton", "Facader", "Ydervægge"]
   },
   {
     "ownerId": "077efa75-92d6-4c54-b054-84755acc4690",
@@ -3977,15 +3626,15 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Betonelement huld\u00c3\u00a6k",
-    "description": "270 mm tykt betonelement huld\u00c3\u00a6k. Anvendes som d\u00c3\u00a6k i byggeri.",
+    "shortName": "Betonelement huldæk",
+    "description": "270 mm tykt betonelement huldæk. Anvendes som dæk i byggeri.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
       "issuedAt": "2021-10-28T00:00:00",
       "validTo": "2026-10-28T00:00:00"
     },
-    "tags": ["Beton", "Gulvbel\u00c3\u00a6gning", "Tagmaterialer"]
+    "tags": ["Beton", "Gulvbelægning", "Tagmaterialer"]
   },
   {
     "ownerId": "077efa75-92d6-4c54-b054-84755acc4690",
@@ -4912,15 +4561,15 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Betonelement TT ribbed\u00c3\u00a6k",
-    "description": "900 mm tykt TT ribbe betonelement\n\nD\u00c3\u00a6k i byggeri",
+    "shortName": "Betonelement TT ribbedæk",
+    "description": "900 mm tykt TT ribbe betonelement\n\nDæk i byggeri",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
       "issuedAt": "2022-03-14T00:00:00",
       "validTo": "2027-02-13T00:00:00"
     },
-    "tags": ["Beton", "Gulvbel\u00c3\u00a6gning", "Tagmaterialer"]
+    "tags": ["Beton", "Gulvbelægning", "Tagmaterialer"]
   },
   {
     "ownerId": "c59aba39-d7dd-4ac3-8c6a-81dbdea7632e",
@@ -5847,8 +5496,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Forsp\u00c3\u00a6ndt huld\u00c3\u00a6k 220 mm (HD220-12 og HD220-24T)",
-    "description": "B\u00c3\u00a6rende forsp\u00c3\u00a6ndt huld\u00c3\u00a6kelement til etageadskillelse, tagkonstruktioner og lign. Huld\u00c3\u00a6kelement i h.t. DS/EN 1168+A3:2011",
+    "shortName": "Forspændt huldæk 220 mm (HD220-12 og HD220-24T)",
+    "description": "Bærende forspændt huldækelement til etageadskillelse, tagkonstruktioner og lign. Huldækelement i h.t. DS/EN 1168+A3:2011",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -6172,8 +5821,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "TT-elementer/Ribbed\u00c3\u00a6k TT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 67% af den samlede danske produktion af TT-elementer/Ribbed\u00c3\u00a6k.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\nTT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering\nTTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering\nTT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
+    "shortName": "TT-elementer/Ribbedæk TT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 67% af den samlede danske produktion af TT-elementer/Ribbedæk.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\nTT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering\nTTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering\nTT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -6497,8 +6146,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "TT-elementer/Ribbed\u00c3\u00a6k TTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 67% af den samlede danske produktion af TT-elementer/Ribbed\u00c3\u00a6k.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\nTT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering\nTTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering\nTT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
+    "shortName": "TT-elementer/Ribbedæk TTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 67% af den samlede danske produktion af TT-elementer/Ribbedæk.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\nTT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering\nTTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering\nTT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -6822,8 +6471,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "TT-elementer/Ribbed\u00c3\u00a6k TT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 67% af den samlede danske produktion af TT-elementer/Ribbed\u00c3\u00a6k.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\nTT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering\nTTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering\nTT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
+    "shortName": "TT-elementer/Ribbedæk TT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 67% af den samlede danske produktion af TT-elementer/Ribbedæk.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\nTT60 med 12-18 stk. L12,5 liner, og 1,3-3,3 kg slap armering\nTTS90 med 16-22 stk. L12,5 liner, og 1-2,5 kg slap armering\nTT60 med 20-28 stk. L12,5 liner, og 2-4 kg slap armering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -7148,7 +6797,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Sandwichelementer/facadeelement Sandwichelement/facadeelement med EPS-isolering",
-    "description": "Dansk Beton branche EPD\n\nSandwichelement/facadeelement, best\u00c3\u00a5ende af bagmur, isolering, og facadeplade, med 10% udsparinger.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 71% af den samlede danske produktion af sandwichelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 2\n\nSandwichelement/facadeelement med mineraluldsisolering\nSandwichelement/facadeelement med EPS-isolering",
+    "description": "Dansk Beton branche EPD\n\nSandwichelement/facadeelement, bestående af bagmur, isolering, og facadeplade, med 10% udsparinger.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 71% af den samlede danske produktion af sandwichelementer.\n\nAntal deklarerede datasæt/produktvariationer: 2\n\nSandwichelement/facadeelement med mineraluldsisolering\nSandwichelement/facadeelement med EPS-isolering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -7473,7 +7122,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Sandwichelementer/facadeelement Sandwichelement/facadeelement med mineraluldsisolering",
-    "description": "Dansk Beton branche EPD\n\nSandwichelement/facadeelement, best\u00c3\u00a5ende af bagmur, isolering, og facadeplade, med 10% udsparinger.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 71% af den samlede danske produktion af sandwichelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 2\n\nSandwichelement/facadeelement med mineraluldsisolering\nSandwichelement/facadeelement med EPS-isolering",
+    "description": "Dansk Beton branche EPD\n\nSandwichelement/facadeelement, bestående af bagmur, isolering, og facadeplade, med 10% udsparinger.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 71% af den samlede danske produktion af sandwichelementer.\n\nAntal deklarerede datasæt/produktvariationer: 2\n\nSandwichelement/facadeelement med mineraluldsisolering\nSandwichelement/facadeelement med EPS-isolering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -7797,8 +7446,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Letbeton v\u00c3\u00a6gelement 220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 78% af den samlede danske produktion af letbeton v\u00c3\u00a6gelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
+    "shortName": "Letbeton vægelement 220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 78% af den samlede danske produktion af letbeton vægelementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -8122,8 +7771,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Letbeton v\u00c3\u00a6gelement 150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 78% af den samlede danske produktion af letbeton v\u00c3\u00a6gelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
+    "shortName": "Letbeton vægelement 150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 78% af den samlede danske produktion af letbeton vægelementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -8447,8 +8096,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Letbeton v\u00c3\u00a6gelement 100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 78% af den samlede danske produktion af letbeton v\u00c3\u00a6gelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
+    "shortName": "Letbeton vægelement 100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 78% af den samlede danske produktion af letbeton vægelementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n100 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n150 mm tyk, 10% udsparinger, densitet: 1750-1850 kg/m3\n220 mm tyk, 10% udsparinger, densitet: 1950-2050 kg/m3",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -8772,8 +8421,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Huld\u00c3\u00a6k element 32 cm tyk, med 11-17 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 69% af den samlede danske produktion af huld\u00c3\u00a6k elementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n22 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm\n32 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm\n32 cm tyk, med 11-17 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm",
+    "shortName": "Huldæk element 32 cm tyk, med 11-17 forspændingsliner i diameter 12,5 mm",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 69% af den samlede danske produktion af huldæk elementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n22 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm\n32 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm\n32 cm tyk, med 11-17 forspændingsliner i diameter 12,5 mm",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -9097,8 +8746,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Huld\u00c3\u00a6k element 32 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 69% af den samlede danske produktion af huld\u00c3\u00a6k elementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n22 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm\n32 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm\n32 cm tyk, med 11-17 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm",
+    "shortName": "Huldæk element 32 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 69% af den samlede danske produktion af huldæk elementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n22 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm\n32 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm\n32 cm tyk, med 11-17 forspændingsliner i diameter 12,5 mm",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -9422,8 +9071,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Huld\u00c3\u00a6k element 22 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 69% af den samlede danske produktion af huld\u00c3\u00a6k elementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n22 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm\n32 cm tyk, med 6-10 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm\n32 cm tyk, med 11-17 forsp\u00c3\u00a6ndingsliner i diameter 12,5 mm",
+    "shortName": "Huldæk element 22 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 69% af den samlede danske produktion af huldæk elementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n22 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm\n32 cm tyk, med 6-10 forspændingsliner i diameter 12,5 mm\n32 cm tyk, med 11-17 forspændingsliner i diameter 12,5 mm",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -9747,8 +9396,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Beton v\u00c3\u00a6gelement 20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 16-25 kg armering",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 84% af den samlede danske produktion af v\u00c3\u00a6gelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n15 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering\n20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering\n20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 16-25 kg armering",
+    "shortName": "Beton vægelement 20 cm tyk væg, 11% udsparinger, med 16-25 kg armering",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 84% af den samlede danske produktion af vægelementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n15 cm tyk væg, 11% udsparinger, med 5-15 kg armering\n20 cm tyk væg, 11% udsparinger, med 5-15 kg armering\n20 cm tyk væg, 11% udsparinger, med 16-25 kg armering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -10072,8 +9721,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Beton v\u00c3\u00a6gelement 20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 84% af den samlede danske produktion af v\u00c3\u00a6gelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n15 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering\n20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering\n20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 16-25 kg armering",
+    "shortName": "Beton vægelement 20 cm tyk væg, 11% udsparinger, med 5-15 kg armering",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 84% af den samlede danske produktion af vægelementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n15 cm tyk væg, 11% udsparinger, med 5-15 kg armering\n20 cm tyk væg, 11% udsparinger, med 5-15 kg armering\n20 cm tyk væg, 11% udsparinger, med 16-25 kg armering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -10397,8 +10046,8 @@
       "massUnit": 1
     },
     "expectedLifespan": 100,
-    "shortName": "Beton v\u00c3\u00a6gelement 15 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering",
-    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en d\u00c3\u00a6kker ca. 84% af den samlede danske produktion af v\u00c3\u00a6gelementer.\n\nAntal deklarerede datas\u00c3\u00a6t/produktvariationer: 3\n\n15 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering\n20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 5-15 kg armering\n20 cm tyk v\u00c3\u00a6g, 11% udsparinger, med 16-25 kg armering",
+    "shortName": "Beton vægelement 15 cm tyk væg, 11% udsparinger, med 5-15 kg armering",
+    "description": "Dansk Beton branche EPD\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra flere producenter (average product, Industry level). Producenterne som leverer data til EPD\u00e2\u20ac\u2122en dækker ca. 84% af den samlede danske produktion af vægelementer.\n\nAntal deklarerede datasæt/produktvariationer: 3\n\n15 cm tyk væg, 11% udsparinger, med 5-15 kg armering\n20 cm tyk væg, 11% udsparinger, med 5-15 kg armering\n20 cm tyk væg, 11% udsparinger, med 16-25 kg armering",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 0,
@@ -10541,7 +10190,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Facadeelement uden isolering",
-    "description": "Facade elementer til erhvervs- og boligbyggeri\n\nFacadeelement uden mineraluldsisolering og ESP isolering.\n\nElement tykkelse 145 mm udsparing 9%\n\nFacadeelement uden isolering, facadeplade, med 9% udsparinger.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra Ambercon A/S, Juelstrupparken. St\u00c3\u00b8vring.",
+    "description": "Facade elementer til erhvervs- og boligbyggeri\n\nFacadeelement uden mineraluldsisolering og ESP isolering.\n\nElement tykkelse 145 mm udsparing 9%\n\nFacadeelement uden isolering, facadeplade, med 9% udsparinger.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra Ambercon A/S, Juelstrupparken. Støvring.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -10684,7 +10333,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Facadeelement med mineraluldsisolering",
-    "description": "Facade elementer til erhvervs- og boligbyggeri.\n\nFacadeelement (sandwichelement), best\u00c3\u00a5ende af bagmur, isolering, og facadeplade, med 28% udsparinger.\n\nElement tykkelse 530 mm udsparing 28%\n\nFacadeplade: 80 mm\n\nIsolering: 250 mm\n\nBagmur: 200 mm\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra Ambercon A/S, Juelstrupparken. St\u00c3\u00b8vring.",
+    "description": "Facade elementer til erhvervs- og boligbyggeri.\n\nFacadeelement (sandwichelement), bestående af bagmur, isolering, og facadeplade, med 28% udsparinger.\n\nElement tykkelse 530 mm udsparing 28%\n\nFacadeplade: 80 mm\n\nIsolering: 250 mm\n\nBagmur: 200 mm\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra Ambercon A/S, Juelstrupparken. Støvring.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -10827,7 +10476,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Facadeelement med EPS isolering",
-    "description": "Facade elementer til erhvervs- og boligbyggeri.\n\nFacadeelement (sandwichelement), best\u00c3\u00a5ende af bagmur, EPS isolering, og facadeplade, med 28% udsparinger.\n\nElement tykkelse 530 mm udsparing 28%\n\nFacadeplade: 80 mm\n\nIsolering: 250 mm\n\nBagmur: 200 mm\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra Ambercon A/S, Juelstrupparken. St\u00c3\u00b8vring.",
+    "description": "Facade elementer til erhvervs- og boligbyggeri.\n\nFacadeelement (sandwichelement), bestående af bagmur, EPS isolering, og facadeplade, med 28% udsparinger.\n\nElement tykkelse 530 mm udsparing 28%\n\nFacadeplade: 80 mm\n\nIsolering: 250 mm\n\nBagmur: 200 mm\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra Ambercon A/S, Juelstrupparken. Støvring.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -11399,7 +11048,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Slaggegrus",
-    "description": "Slaggegrus anvendes til b\u00c3\u00a6relag og bundsikringslag",
+    "description": "Slaggegrus anvendes til bærelag og bundsikringslag",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -11880,7 +11529,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Passiv C20/25 beton med Rapid cement",
-    "description": "Fabriksbeton til anvendelse i eksponeringsklasse X0 og XC1. Dette svarer til beton udsat for passiv milj\u00c3\u00b8p\u00c3\u00a5virkning som defineret i DS/EN 206 DK NA.\n\nBeton indend\u00c3\u00b8rs ved meget lav og lav luftfugtighed i opvarmede rum (X0), samt beton indend\u00c3\u00b8rs ved meget lav og lav luftfugtighed i uopvarmede rum eller til jordd\u00c3\u00a6kkede betonfundamenter og terr\u00c3\u00a6nd\u00c3\u00a6k permanent i jord uden str\u00c3\u00b8mmende vand (XC1). Informative eksempler kan ses i DS/EN 206 DK NA.",
+    "description": "Fabriksbeton til anvendelse i eksponeringsklasse X0 og XC1. Dette svarer til beton udsat for passiv miljøpåvirkning som defineret i DS/EN 206 DK NA.\n\nBeton indendørs ved meget lav og lav luftfugtighed i opvarmede rum (X0), samt beton indendørs ved meget lav og lav luftfugtighed i uopvarmede rum eller til jorddækkede betonfundamenter og terrændæk permanent i jord uden strømmende vand (XC1). Informative eksempler kan ses i DS/EN 206 DK NA.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -12361,7 +12010,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Moderat C30/37 beton med Rapid cement",
-    "description": "Fabriksbeton til anvendelse i eksponeringsklasse XC2, XC3, XC4, XF1 og XA1. Dette svarer til beton udsat for moderat milj\u00c3\u00b8p\u00c3\u00a5virkning som defineret i DS/EN 206 DK NA.\n\nBeton udsat for langvarig kontakt med vand (XC2), beton indend\u00c3\u00b8rs med moderat eller h\u00c3\u00b8j luftfugtighed eller beton udend\u00c3\u00b8rs beskyttet mod regn (XC3), beton udsat for kontakt med vand, herunder fx udvendige v\u00c3\u00a6gge, facader, altaner mv. (XC4), vertikale betonoverflader udsat for regn og frost (XF1), og beton udsat for jord og grundvand med let aggressiv kemisk milj\u00c3\u00b8 (XA1). Informative eksempler kan ses i DS/EN 206 DK NA.",
+    "description": "Fabriksbeton til anvendelse i eksponeringsklasse XC2, XC3, XC4, XF1 og XA1. Dette svarer til beton udsat for moderat miljøpåvirkning som defineret i DS/EN 206 DK NA.\n\nBeton udsat for langvarig kontakt med vand (XC2), beton indendørs med moderat eller høj luftfugtighed eller beton udendørs beskyttet mod regn (XC3), beton udsat for kontakt med vand, herunder fx udvendige vægge, facader, altaner mv. (XC4), vertikale betonoverflader udsat for regn og frost (XF1), og beton udsat for jord og grundvand med let aggressiv kemisk miljø (XA1). Informative eksempler kan ses i DS/EN 206 DK NA.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -12841,8 +12490,8 @@
       "massUnit": 0
     },
     "expectedLifespan": 100,
-    "shortName": "ig-r\u00c3\u00b8r \u00c3\u02dc600 mm",
-    "description": "1 m r\u00c3\u00b8r\n\n \n\nUarmeret betonr\u00c3\u00b8r \u00c3\u02dc600 mm med ist\u00c3\u00b8bt t\u00c3\u00a6tningsring",
+    "shortName": "ig-rør \u00c3\u02dc600 mm",
+    "description": "1 m rør\n\n \n\nUarmeret betonrør \u00c3\u02dc600 mm med istøbt tætningsring",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -13323,7 +12972,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "IBF Tagsten",
-    "description": "Deklareret produkt er 1 m\u00c2\u00b2 betontagsten.\n\nYderligere information om produktet:\n\nIBF betontagsten er fremstillet i gennemfarvet beton ved valse- og formpresning i en fuldautomatisk produktionsproces under l\u00c3\u00b8bende kvalitetskontrol i henhold til DS/EN 490 og DS/EN 491.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet p\u00c3\u00a5 baggrund af v\u00c3\u00a6gtede gennemsnitsdata fra to produktionssteder.\n\nBetontagsten anvendes til opl\u00c3\u00a6gning p\u00c3\u00a5 tage med h\u00c3\u00a6ldning.\n\nIBF tagstenene opl\u00c3\u00a6gges med l\u00c3\u00a6gteafstand fra 310 mm til 370 mm, og facadebekl\u00c3\u00a6dning ops\u00c3\u00a6ttes med l\u00c3\u00a6gteafstand 195 mm. Der er i denne EPD taget udgangspunkt i l\u00c3\u00a6gteafstand 340 mm. Ved opl\u00c3\u00a6gning med anden l\u00c3\u00a6gteafstand anvendes omregningsfaktorer pr\u00c3\u00a6senteret i EPD'en.",
+    "description": "Deklareret produkt er 1 m\u00c2\u00b2 betontagsten.\n\nYderligere information om produktet:\n\nIBF betontagsten er fremstillet i gennemfarvet beton ved valse- og formpresning i en fuldautomatisk produktionsproces under løbende kvalitetskontrol i henhold til DS/EN 490 og DS/EN 491.\n\nEPD\u00e2\u20ac\u2122en er udarbejdet på baggrund af vægtede gennemsnitsdata fra to produktionssteder.\n\nBetontagsten anvendes til oplægning på tage med hældning.\n\nIBF tagstenene oplægges med lægteafstand fra 310 mm til 370 mm, og facadebeklædning opsættes med lægteafstand 195 mm. Der er i denne EPD taget udgangspunkt i lægteafstand 340 mm. Ved oplægning med anden lægteafstand anvendes omregningsfaktorer præsenteret i EPD'en.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -13804,7 +13453,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Ekstra Aggressiv C40/50 beton med RAPID cement",
-    "description": "Fabriksbeton til anvendelse i eksponeringsklasse XD2, XD3, XS3, XF4 og XA3. Dette svarer til beton udsat for ekstra aggressiv milj\u00c3\u00b8p\u00c3\u00a5virkning som defineret i DS/EN 206 DK NA.\n\nBeton udsat for langvarig kontakt med vand og chlorid, fx sv\u00c3\u00b8mmebassiner (XD2). Beton udsat for vandspr\u00c3\u00b8jt, der indeholder chlorid, eller uds\u00c3\u00a6ttes for t\u00c3\u00b8saltning (XD3). Beton udsat for vandspr\u00c3\u00b8jt fra havvand (XS3). Beton udsat for vand, frost og chlorid (XF4), samt beton udsat for jord og grundvand med st\u00c3\u00a6rkt aggressivt kemisk milj\u00c3\u00b8 (XA3). Informative eksempler kan ses i DS/EN 206 DK NA.",
+    "description": "Fabriksbeton til anvendelse i eksponeringsklasse XD2, XD3, XS3, XF4 og XA3. Dette svarer til beton udsat for ekstra aggressiv miljøpåvirkning som defineret i DS/EN 206 DK NA.\n\nBeton udsat for langvarig kontakt med vand og chlorid, fx svømmebassiner (XD2). Beton udsat for vandsprøjt, der indeholder chlorid, eller udsættes for tøsaltning (XD3). Beton udsat for vandsprøjt fra havvand (XS3). Beton udsat for vand, frost og chlorid (XF4), samt beton udsat for jord og grundvand med stærkt aggressivt kemisk miljø (XA3). Informative eksempler kan ses i DS/EN 206 DK NA.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
@@ -14285,7 +13934,7 @@
     },
     "expectedLifespan": 100,
     "shortName": "Aggressiv C35/45 beton med RAPID cement",
-    "description": "Fabriksbeton til anvendelse i eksponeringsklasse XD1, XS1, XS2, XF2, XF3 og XA2. Dette svarer til beton udsat for aggressiv milj\u00c3\u00b8p\u00c3\u00a5virkning som defineret i DS/EN 206 DK NA.\n\nBeton udsat for luftb\u00c3\u00a5ren chlorid fra t\u00c3\u00b8salt, begr\u00c3\u00a6nset t\u00c3\u00b8saltning eller som er i umiddelbar n\u00c3\u00a6rhed af arealer, der t\u00c3\u00b8saltes (XD1), beton udsat for luftb\u00c3\u00a5ren salt fra havvand (XS1), beton udsat for permanent kontakt med havvand (XS2), vertikale betonoverflader udsat for frost og luftb\u00c3\u00a5ren chlorid fra t\u00c3\u00b8salt eller havvand (XF2), horisontale betonoverflader udsat for regn og frost (XF3), samt beton udsat for jord og grundvand med moderat aggressivt kemisk milj\u00c3\u00b8 som defineret i DS/EN 206 (XA2). Informative eksempler kan ses i DS/EN 206 DK NA.",
+    "description": "Fabriksbeton til anvendelse i eksponeringsklasse XD1, XS1, XS2, XF2, XF3 og XA2. Dette svarer til beton udsat for aggressiv miljøpåvirkning som defineret i DS/EN 206 DK NA.\n\nBeton udsat for luftbåren chlorid fra tøsalt, begrænset tøsaltning eller som er i umiddelbar nærhed af arealer, der tøsaltes (XD1), beton udsat for luftbåren salt fra havvand (XS1), beton udsat for permanent kontakt med havvand (XS2), vertikale betonoverflader udsat for frost og luftbåren chlorid fra tøsalt eller havvand (XF2), horisontale betonoverflader udsat for regn og frost (XF3), samt beton udsat for jord og grundvand med moderat aggressivt kemisk miljø som defineret i DS/EN 206 (XA2). Informative eksempler kan ses i DS/EN 206 DK NA.",
     "epdInfo": {
       "epdSpecificationForm": 0,
       "epdProductIndustryType": 1,
